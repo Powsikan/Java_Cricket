@@ -1,0 +1,38 @@
+
+Ksquid:S1604@"(Make this anonymous inner class a lambda(×‰‹­ûÿÿÿÿ8ø¡Ú»-
+ssquid:S1450¯"[Remove the "jScrollPane4" field and declare it as a local variable in the relevant methods.(À“•¹
+ssquid:S1450©"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+qsquid:S00117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æø€­8¢†Œ»-
+Nsquid:S1172ä"*Remove this unused method parameter "evt".(ÎáÃ¾ûÿÿÿÿ8õ—íò¸-
+vsquid:S1450³"YRemove the "lbl_search" field and declare it as a local variable in the relevant methods.(”÷“¬ùÿÿÿÿ
+Nsquid:S1172÷"*Remove this unused method parameter "evt".(ê›ƒºıÿÿÿÿ8¢†Œ»-
+qsquid:S1450¦"YRemove the "btn_search" field and declare it as a local variable in the relevant methods.(ººü
+ksquid:S11923"HDefine a constant instead of duplicating this literal "Tahoma" 11 times.(–×šøÿÿÿÿ8ø¡Ú»-
+osquid:S1450²"WRemove the "lbl_bowl" field and declare it as a local variable in the relevant methods.(ø¬‰™
+qsquid:S00116¶"SRename this field "tbl_head" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½²Õüÿÿÿÿ
+psquid:S00116´"RRename this field "tbl_bat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ËáÕøÿÿÿÿ
+xsquid:S1450­"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ
+qsquid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æø€­8õ—íò¸-
+csquid:S2147—"ECombine this catch with the one at line 273, which has the same body.(ñÎ¯%8ÏáÖ¸-
+lsquid:S00116·"SRename this field "txt_area" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Î™Ä
+vsquid:S00117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†½‰­ùÿÿÿÿ8ø¡Ú»-
+dsquid:S2147•"ECombine this catch with the one at line 273, which has the same body.(ã€ 8ÏáÖ¸-
+ssquid:S1450¨"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+ssquid:S1450ª"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+Fsquid:S1604I"(Make this anonymous inner class a lambda(ÓØ×Ö8ø¡Ú»-
+ssquid:S00116³"URename this field "lbl_search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”÷“¬ùÿÿÿÿ
+nsquid:S00116¦"URename this field "btn_search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ººü
+Lsquid:S1604"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ8ÏáÖ¸-
+\squid:S1197„"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ÏáÖ¸-
+qsquid:S00116µ"SRename this field "tbl_bowl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¶–Öüÿÿÿÿ
+ssquid:S1450°"[Remove the "jScrollPane5" field and declare it as a local variable in the relevant methods.(ÂŞàå
+usquid:S1450¬"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®8­™€¼»-
+ssquid:S1450±"VRemove the "lbl_bat" field and declare it as a local variable in the relevant methods.(°Ì÷Òùÿÿÿÿ
+dsquid:S2147“"ECombine this catch with the one at line 273, which has the same body.(¨¦Š½8ÏáÖ¸-
+ssquid:S00116¸"URename this field "txt_search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÓ÷›ùÿÿÿÿ
+psquid:S00116±"RRename this field "lbl_bat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Ì÷Òùÿÿÿÿ
+xsquid:S1450®"[Remove the "jScrollPane2" field and declare it as a local variable in the relevant methods.(ŠÌ«·şÿÿÿÿ
+ksquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ÅšçS8ø¡Ú»-
+nsquid:S1450«"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+ssquid:S00100ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎáÃ¾ûÿÿÿÿ8õ—íò¸-
+lsquid:S00116²"SRename this field "lbl_bowl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¬‰™
